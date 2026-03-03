@@ -2,6 +2,8 @@
 
 Automated TikTok video creation pipeline powered by Claude Code Agent Teams. One command generates a complete Vietnamese-narrated vertical video with AI-generated images, voiceover, and TikTok-style subtitles.
 
+> **Framework Documentation**: This project is built on the [Vibe Agentic Framework](https://github.com/nht269/vibe-agentic-framework) — a pattern for turning simple requests into complex multi-agent workflows.
+
 ## How It Works
 
 ```
