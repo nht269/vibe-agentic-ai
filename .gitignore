@@ -1,0 +1,12 @@
+node_modules/
+dist/
+out/
+.DS_Store
+*.mp4
+*.mp3
+.env
+.env.local
+public/images/
+public/voiceover/
+public/captions/
+.claude/settings.local.json
